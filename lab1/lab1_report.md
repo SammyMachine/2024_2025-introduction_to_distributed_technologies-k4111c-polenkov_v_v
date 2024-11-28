@@ -7,7 +7,7 @@ Group: K4111c \
 Author: Polenkov Vladislav \
 Lab: Lab1 \
 Date of create: 14.11.2024 \
-Date of finished: ...
+Date of finished: 28.11.2024 \
 
 ### Описание
 Это первая лабораторная работа в которой мы сможем протестировать Docker, установить Minikube и развернуть свой первый "под".

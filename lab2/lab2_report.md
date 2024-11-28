@@ -7,7 +7,7 @@ Group: K4111c \
 Author: Polenkov Vladislav \
 Lab: Lab2 \
 Date of create: 15.11.2024 \
-Date of finished: ...
+Date of finished: 28.11.2024 \
 
 ### Описание
 В данной лабораторной работе мы познакомимся с развертыванием полноценного веб сервиса с несколькими репликами.

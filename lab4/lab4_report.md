@@ -7,7 +7,7 @@ Group: K4111c \
 Author: Polenkov Vladislav \
 Lab: Lab4 \
 Date of create: 25.11.2024 \
-Date of finished: ...
+Date of finished: 28.11.2024 \
 
 ### Описание
 

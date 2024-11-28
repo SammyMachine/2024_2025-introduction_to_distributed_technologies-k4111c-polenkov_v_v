@@ -7,7 +7,7 @@ Group: K4111c \
 Author: Polenkov Vladislav \
 Lab: Lab3 \
 Date of create: 24.11.2024 \
-Date of finished: ...
+Date of finished: 28.11.2024 \
 
 ### Описание
 В данной лабораторной работе мы познакомимся с сертификатами и "секретами" в Minikube, правилами безопасного хранения данных в Minikube. 
