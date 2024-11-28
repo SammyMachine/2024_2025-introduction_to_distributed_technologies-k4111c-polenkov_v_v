@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: config
+data:
+  REACT_APP_USERNAME: "sammyxd"
+  REACT_APP_COMPANY_NAME: "sammyxd"
